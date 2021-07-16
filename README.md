@@ -8,6 +8,9 @@ Console Based Python Folder Locker with Password Protection. Works on Windows On
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
 
 Download Through Git:
 ```
