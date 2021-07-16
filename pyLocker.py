@@ -37,7 +37,7 @@ def hashingData(data):
 def passwordData():
     
     if not os.path.isfile(passFile):
-        print("First Time Setup:")
+        print("Initial Setup:")
         print("-"*24)
         
         while True:
