@@ -1,7 +1,7 @@
 <img align='left' src='https://github.com/ViKi-R/pyLocker/blob/main/folderlock.ico'></img>
 
 # Python Folder Lock => PyLocker
-Console Based Python Folder Locker with Password Protection. Works on Windows Only. 
+Console Based Python Folder Locker with Password Protection. Works only on Windows. 
 </br>
 </br>
 </br>
